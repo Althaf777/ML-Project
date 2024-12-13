@@ -5,4 +5,5 @@ This project focuses on predicting student Performance in Maths using various Re
 
 ## Analysis
 Performed various analysis with the help of scikit learn and seaborn libraries.
+![Screenshot 2024-12-13 102821](https://github.com/user-attachments/assets/5e86073b-337e-4cd2-bba1-290ed9ae7e3a)
   
