@@ -34,5 +34,7 @@ The dataset used in this analysis include information on:
 
 ## Installation
 **Clone the repository**
-'''git clone https://github.com/althaf777/Python.git'''
+'''
+git clone https://github.com/althaf777/Python.git
+'''
   
