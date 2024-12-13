@@ -14,3 +14,14 @@ Performed various analysis with the help of scikit learn and seaborn libraries.
 
 ![Screenshot 2024-12-13 103602](https://github.com/user-attachments/assets/0356f94b-87ad-479e-b62e-f251410a01eb)
   
+## Dataset
+The dataset used in this analysis include information on:
+- Student Demographics (age,gender, parental education)
+- Academic performance (math,reading and writing scores)
+- Study habits (test preparation, study time )
+
+## Model Building
+# Data Pipelines
+- **Data Ingestion**: Automated collection and preparation of raw data.
+- **Data Transformation**: Data cleaning and scaling for good prediction. Used One Hot Encoding and Label encoding for converting categorical values to numerical.
+- **Model Training**: Experimented with multiple algorithms to acheive an 89% accuracy using Ridge regression.
