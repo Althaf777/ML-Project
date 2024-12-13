@@ -27,7 +27,12 @@ The dataset used in this analysis include information on:
 - **Model Training**: Experimented with multiple algorithms to acheive an 89% accuracy using Ridge regression.
 
 **Prediction Pipeline**
--Built a system to handle real-time predictions based on user inputs like study time, attendance and previous scores.
+- Built a system to handle real-time predictions based on user inputs like study time, attendance and previous scores.
 
 **User Interface**
 - With the help of Flask framework, built a user interface for the model.
+
+## Installation
+**Clone the repository**
+'''git clone https://github.com/althaf777/Python.git'''
+  
