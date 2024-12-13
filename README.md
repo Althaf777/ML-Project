@@ -42,7 +42,31 @@ The dataset used in this analysis include information on:
 ## Installation
 **Clone the repository**
 
-'''bash
-  git clone https://github.com/althaf777/Python.git
-'''
+<pre>
+  <code>
+git clone https://github.com/Althaf777/mlproject.git
+cd your -repo-folder
+  </code>
+  <button onclick="navigator.clipboard.writeText(`# Python Example\ndef greet(name):\n    return f\"Hello, {name}!\"\nprint(greet(\"World\"))`)"></button>
+</pre>
+
+**Setup environment**
+<pre>
+  <code>
+pip install -r requirements.txt 
+  </code>
+</pre>
+
+**Run the app locally**
+<pre>
+  <code>
+python app.py
+  </code>
+</pre>
+
+## Interface
+
+
+
+
   
