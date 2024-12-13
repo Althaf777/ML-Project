@@ -1,4 +1,4 @@
-## End to End Student Performance ML APP
+# End to End Student Performance ML APP
 
 ## Project Overview
 This project focuses on predicting student Performance in Maths using various Regression models. With an accuracy of 89%,Ridge regression performed well among other machine learning algorithms. The project is designed in a well manner using modular coding and an interactive userface has been created using Flask framework.
@@ -21,7 +21,13 @@ The dataset used in this analysis include information on:
 - Study habits (test preparation, study time )
 
 ## Model Building
-# Data Pipelines
+**Data Pipelines**
 - **Data Ingestion**: Automated collection and preparation of raw data.
 - **Data Transformation**: Data cleaning and scaling for good prediction. Used One Hot Encoding and Label encoding for converting categorical values to numerical.
 - **Model Training**: Experimented with multiple algorithms to acheive an 89% accuracy using Ridge regression.
+
+**Prediction Pipeline**
+-Built a system to handle real-time predictions based on user inputs like study time, attendance and previous scores.
+
+**User Interface**
+- With the help of Flask framework, built a user interface for the model.
