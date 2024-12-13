@@ -68,6 +68,33 @@ python app.py
 
 ![Screenshot 2024-12-12 131852](https://github.com/user-attachments/assets/6952c7e2-274c-4fbb-8b2d-2d388ac412ba)
 
+## Project Structure
+```plaintext
+  📂 Project Root
+├── 📁 data                  # Dataset files 
+├── 📁 models                # Trained model files
+├── 📁 src                   # Source code
+│   ├── data_pipeline.py     # Data ingestion and transformation
+│   ├── train.py             # Model training scripts
+│   └── predict.py           # Prediction pipeline
+├── 📄 app.py
+├── 📄 requirements.txt      # Python dependencies
+└── 📄  README.md            # Project documentation
+```
+
+## Future Enhancements
+- Extend prediction to other subjects (e.g., Science, Reading).
+- Incorporate deep learning models for enhanced performance.
+- Add support for real-time data inputs from school systems.
+
+
+## Contributing
+Contributions are welcome!
+
+## Acknowledgments
+Special thanks to the contributors of open-source libraries such as Scikit-learn, Flask, Matplotlib, and Seaborn for enabling the development of this project.
+
+
 
 
 
