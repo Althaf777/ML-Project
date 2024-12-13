@@ -66,6 +66,8 @@ python app.py
 
 ## Interface
 
+![Screenshot 2024-12-12 131852](https://github.com/user-attachments/assets/6952c7e2-274c-4fbb-8b2d-2d388ac412ba)
+
 
 
 
