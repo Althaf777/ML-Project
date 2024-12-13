@@ -68,6 +68,19 @@ python app.py
 
 ![Screenshot 2024-12-12 131852](https://github.com/user-attachments/assets/6952c7e2-274c-4fbb-8b2d-2d388ac412ba)
 
+## Usage
+1. Load the dataset through the provided interface.
+2. View exploratory data analysis visualizations.
+3. Enter input parameters for predictions.
+4. Obtain predicted math scores and performance insights.
+
+## Technologies Used
+- **Ridge Regression:** For high-accuracy predictions.
+- **Flask:** To develop the interactive web interface.
+- **Matplotlib & Seaborn:** For detailed data visualization.
+- **Pandas & NumPy:** For data manipulation and preprocessing.
+- **Scikit-learn:** For model development and evaluation.
+  
 ## Project Structure
 ```plaintext
   📂 Project Root
