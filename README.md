@@ -9,6 +9,13 @@ This project focuses on predicting student Performance in Maths using various Re
 - [Dataset](#dataset)
 - [Model Building](#model_Building)
 - [Installation](#installation)
+- [Interface](#interface)
+- [Usage](#usage)
+- [Technologies Used](#technologies_used)
+- [Project Structure](#project_structure)
+- [Future Enhancements](#future_enhancements)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 
 ## Analysis
 Performed various analysis with the help of scikit learn and seaborn libraries.
